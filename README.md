@@ -1,3 +1,9 @@
+# Palavras
+
+Cria um PDF em que cada página possui duas palavras. A página é dividida ao meio, cada palavra fica centralizada na sua metade.
+
+O arquivo output.pdf é o exemplo de resultado da execuçao do código.
+
 # Installation
 
 ```shell
